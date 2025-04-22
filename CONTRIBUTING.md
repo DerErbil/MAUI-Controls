@@ -8,8 +8,7 @@ Thank you for your interest in contributing! Here’s how you can help improve t
 1. Click the "Fork" button (top right) to create your copy of the repo.  
 2. Clone your fork:  
    ```sh
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/DerErbil/MAUI-Controls/
    ```
 
 
